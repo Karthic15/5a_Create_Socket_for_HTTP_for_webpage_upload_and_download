@@ -1,4 +1,4 @@
-# 5_Create_Socket_for_HTTP_for_webpage_upload_and_download
+# 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
 ## NAME : KARTHIC V
 ## REGISTER NUMBER : 212225240068
 ## AIM :
@@ -59,7 +59,6 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/9615f751-a790-4861-a1b0-ee96be4932e7)
-
+![alt text](image.png)
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
